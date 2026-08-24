@@ -6,15 +6,15 @@
   <!-- Profile Photo & Status -->
   <table>
     <tr>
-      <td align="center" width="180">
-        <img src="https://raw.githubusercontent.com/Aditya-4oo/Aditya-portfolio/main/aditya-photo.jpg" width="150" height="190" style="border-radius: 20px; border: 3px solid #00f3ff; object-fit: cover;" alt="Aditya Ojha" />
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/Aditya-4oo/Aditya-portfolio/main/aditya-photo.png" width="165" height="210" style="border-radius: 20px; border: 3px solid #00f3ff; object-fit: cover;" alt="Aditya Ojha" />
       </td>
       <td align="left">
         <h3>⚡ Hey there! I'm Aditya Ojha 👋</h3>
         <p>
           🎓 <b>BS in Computer Science & Data Analytics</b> at <b>IIT Patna</b> (2025–2029)<br/>
-          🏃 <b>State-Level Athlete</b> with high stamina & engineering grit<br/>
-          💻 Building high-performance <b>full-stack systems, health AI, & data platforms</b>
+          🏃 <b>State-Level Athlete</b> forged in endurance & high-stamina discipline<br/>
+          💻 Engineering high-performance <b>full-stack platforms, health AI, & data systems</b>
         </p>
         <p>
           <a href="https://aditya-4oo.github.io/Aditya-portfolio/">
