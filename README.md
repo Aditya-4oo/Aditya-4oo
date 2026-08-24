@@ -2,7 +2,7 @@
 
   <!-- Header Banner -->
   <a href="https://github.com/Aditya-4oo">
-    <img src="https://raw.githubusercontent.com/Aditya-4oo/Aditya-4oo/main/assets/header-banner.svg" width="100%" alt="Aditya Ojha Banner" />
+    <img src="https://raw.githubusercontent.com/Aditya-4oo/Aditya-4oo/main/assets/banner.svg" width="100%" alt="Aditya Ojha Banner" />
   </a>
 
   <!-- Profile Photo & Status -->
