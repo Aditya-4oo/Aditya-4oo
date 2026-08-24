@@ -20,8 +20,8 @@
           <a href="https://aditya-4oo.github.io/Aditya-portfolio/">
             <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-00f3ff?style=for-the-badge&logoColor=black&labelColor=0a0a1f" alt="Visit Portfolio" />
           </a>
-          <a href="https://wa.me/919811249837">
-            <img src="https://img.shields.io/badge/💬%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+          <a href="https://www.linkedin.com/in/aditya2007">
+            <img src="https://img.shields.io/badge/💼%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
           </a>
           <a href="mailto:ojhaa7334@gmail.com">
             <img src="https://img.shields.io/badge/✉️%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -164,9 +164,6 @@ aditya@iitp-station:~$ cat profile.json
 
 <div align="center">
 
-  <a href="https://wa.me/919811249837">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B91_9811249837-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
   <a href="mailto:ojhaa7334@gmail.com">
     <img src="https://img.shields.io/badge/Email-ojhaa7334%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
