@@ -15,8 +15,8 @@
         <h3>⚡ Hey there! I'm Aditya Ojha 👋</h3>
         <p>
           🎓 <b>BS in Computer Science & Data Analytics</b> at <b>IIT Patna</b> (2025–2029)<br/>
-          🏃 <b>State-Level Athlete</b> forged in endurance & high-stamina discipline<br/>
-          💻 Engineering high-performance <b>full-stack platforms, health AI, & data systems</b>
+          📊 <b>Data Scientist & Teacher</b> passionate about data systems, AI & tech education<br/>
+          💻 Engineering high-performance <b>full-stack platforms, data models, & software solutions</b>
         </p>
         <p>
           <a href="https://aditya-4oo.github.io/Aditya-portfolio/">
@@ -36,7 +36,7 @@
   <!-- Dynamic Typing Subtitle -->
   <p align="center">
     <a href="https://github.com/Aditya-4oo">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F3FF&center=true&vCenter=true&width=500&lines=BS+CS+%26+Data+Analytics+@+IIT+Patna;State-Level+Athlete+%7C+Endurance+Discipline;Building+Modern+Full-Stack+Platforms;Swasthai+%2B+Eagle+Brothers+Fitness" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F3FF&center=true&vCenter=true&width=500&lines=BS+CS+%26+Data+Analytics+@+IIT+Patna;Data+Scientist+%7C+Full-Stack+Developer;Teacher+%26+Tech+Educator;Building+Impactful+Data-Driven+Systems" alt="Typing SVG" />
     </a>
   </p>
 
@@ -60,9 +60,9 @@ aditya@iitp-station:~$ cat profile.json
   "name": "Aditya Ojha",
   "institution": "Indian Institute of Technology Patna (IIT Patna)",
   "degree": "B.S. in Computer Science & Data Analytics (2025–2029)",
-  "athletics": "State-Level Athlete (Track & Field / Sprint Conditioning)",
-  "passions": ["Distributed Systems", "Algorithm Optimization", "Health AI", "Athletic Regimen"],
-  "quote": "The code that doesn't ship is just a thought. The race not run is just a plan. Execution is everything."
+  "roles": ["Data Scientist", "Full-Stack Engineer", "Teacher & Educator"],
+  "passions": ["Data Analytics", "Machine Learning", "Algorithm Optimization", "Teaching & Mentorship"],
+  "quote": "The best way to master a complex subject is to build it, optimize it, and teach it to others."
 }
 ```
 
@@ -71,12 +71,13 @@ aditya@iitp-station:~$ cat profile.json
 ### 💫 About Me
 
 - 🏛️ **Institution**: **IIT Patna** (Indian Institute of Technology, Patna)
-- 🏃 **Athletic Honors**: **State-Level Athlete** — Bringing endurance, mental stamina, and relentless discipline into software engineering.
+- 👨‍🏫 **Educator & Teacher**: Passionate about teaching computer science, math, and data analytics to empower students.
+- 📊 **Data Science & ML**: Exploring statistical modeling, predictive analytics, and end-to-end data pipelines.
 - 🚀 **Currently Building**: 
   - 🏋️‍♂️ [**Eagle Brothers Fitness**](https://eagle-brothers-fitness.vercel.app): Full-stack athlete training periodization & appointment platform.
-  - 🏥 [**Swasthai**](https://github.com/Aditya-4oo/Swasthai): AI diagnostic intelligence & preventive health analytics.
+  - 🏥 [**Swasthai (Swasth-AI)**](https://github.com/Aditya-4oo/Swasthai): Preventive health diagnostics & data intelligence.
   - ⚙️ [**Algorithm & Data Structures Visualizer**](https://aditya-4oo.github.io/Aditya-portfolio/): Real-time interactive sorting engine.
-- 🎯 **Available For**: Summer '26 Tech & Data Engineering Internships!
+- 🎯 **Available For**: Summer '26 Data Science, Machine Learning & Engineering Internships!
 - 📍 **Location**: Delhi / Patna, India 🇮🇳
 
 ---
