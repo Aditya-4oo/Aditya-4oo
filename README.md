@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,24&height=220&section=header&text=Aditya%20Ojha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BS%20Computer%20Science%20%26%20Data%20Analytics%20@%20IIT%20Patna%20%7C%20State-Level%20Athlete%20🏃&descAlignY=58&descAlign=50" width="100%" alt="Aditya Ojha Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,24&height=220&section=header&text=Aditya%20Ojha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BS%20Computer%20Science%20%26%20Data%20Analytics%20%7C%20IIT%20Patna&descAlignY=58&descAlign=50" width="100%" alt="Aditya Ojha Banner" />
 
   <!-- Profile Photo & Status -->
   <table>
@@ -30,6 +30,13 @@
       </td>
     </tr>
   </table>
+
+  <!-- Dynamic Typing Subtitle -->
+  <p align="center">
+    <a href="https://github.com/Aditya-4oo">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F3FF&center=true&vCenter=true&width=500&lines=BS+CS+%26+Data+Analytics+@+IIT+Patna;State-Level+Athlete+%7C+Endurance+Discipline;Building+Modern+Full-Stack+Platforms;Swasthai+%2B+Eagle+Brothers+Fitness" alt="Typing SVG" />
+    </a>
+  </p>
 
   <!-- Social & Quick Action Badges -->
   <p align="center">
@@ -131,12 +138,12 @@ aditya@iitp-station:~$ cat profile.json
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-4oo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1f&title_color=00f3ff&icon_color=bc13fe" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-4oo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1f&title_color=00f3ff" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aditya-4oo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1f&title_color=00f3ff&icon_color=bc13fe" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aditya-4oo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1f&title_color=00f3ff" height="165" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-4oo&theme=tokyonight&hide_border=true&background=0a0a1f&ring=00f3ff&fire=bc13fe&currStreakLabel=00f3ff" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-4oo&theme=react-dark&bg_color=0a0a1f&color=00f3ff&line=bc13fe&point=ffffff&area=true&hide_border=true" width="100%" alt="Aditya's GitHub Activity Graph" />
 </div>
 
 ---
@@ -147,7 +154,7 @@ aditya@iitp-station:~$ cat profile.json
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-4oo/Aditya-4oo/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya-4oo/Aditya-4oo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aditya-4oo/Aditya-4oo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aditya-4oo/Aditya-4oo/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
