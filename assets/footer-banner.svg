@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="100%" height="80">
+  <defs>
+    <linearGradient id="f-wave-1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f3ff" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#7928ca" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#ff0080" stop-opacity="0.6" />
+    </linearGradient>
+    <linearGradient id="f-wave-2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0070f3" stop-opacity="0.3" />
+      <stop offset="50%" stop-color="#00f3ff" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#bc13fe" stop-opacity="0.3" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="80" fill="transparent" />
+  <path d="M 0 35 C 200 65, 380 10, 560 45 C 740 80, 820 20, 900 40 L 900 0 L 0 0 Z" fill="url(#f-wave-2)" />
+  <path d="M 0 20 C 180 50, 360 0, 540 30 C 720 60, 810 10, 900 25 L 900 0 L 0 0 Z" fill="url(#f-wave-1)" />
+</svg>

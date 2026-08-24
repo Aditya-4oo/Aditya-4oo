@@ -1,13 +1,15 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,24&height=220&section=header&text=Aditya%20Ojha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BS%20Computer%20Science%20%26%20Data%20Analytics%20%7C%20IIT%20Patna&descAlignY=58&descAlign=50" width="100%" alt="Aditya Ojha Banner" />
+  <a href="https://github.com/Aditya-4oo">
+    <img src="https://raw.githubusercontent.com/Aditya-4oo/Aditya-4oo/main/assets/header-banner.svg" width="100%" alt="Aditya Ojha Banner" />
+  </a>
 
   <!-- Profile Photo & Status -->
   <table>
     <tr>
       <td align="center" width="200">
-        <img src="https://raw.githubusercontent.com/Aditya-4oo/Aditya-portfolio/main/aditya-photo.png" width="165" height="210" style="border-radius: 20px; border: 3px solid #00f3ff; object-fit: cover;" alt="Aditya Ojha" />
+        <img src="https://raw.githubusercontent.com/Aditya-4oo/Aditya-4oo/main/assets/aditya-photo.png" width="165" height="210" style="border-radius: 20px; border: 3px solid #00f3ff; object-fit: cover;" alt="Aditya Ojha" />
       </td>
       <td align="left">
         <h3>⚡ Hey there! I'm Aditya Ojha 👋</h3>
@@ -177,4 +179,4 @@ aditya@iitp-station:~$ cat profile.json
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,24&height=100&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/Aditya-4oo/Aditya-4oo/main/assets/footer-banner.svg" width="100%" />
